@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center; 
+}
+
+table{
+    background-color: #ADD8E6;
+    margin-top: 20%;
+}
+
+td{
+    padding: 4px;
+}
+
+#titulo{
+    background-color: #4682B4 ;
+    color: white;
+}
+
+.titulo{
+    background-color:#87CEFA ;
+}
+
+#tbody{
+    background-color: #ADD8E6;
+}
+
+.posicao{
+    background-color: grey;
+    text-align: center;
+    
+}
+
+.cidade{
+    color: #1E90FF;
+}
+
+
+
+
